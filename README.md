@@ -6,3 +6,5 @@
     <source src="path/to/video.webm" type="video/webm">
   </video>
 </figure>
+
+class="a1">italic</em> и это тоже <i class="a1">italic</i>. А вот так уже <b>strong</b>, и так тоже <strong>strong</strong>.
