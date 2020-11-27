@@ -1,1 +1,1 @@
-<video src="https://github.com/DR-Dock/CV_proj/blob/main/output.avi"></video>
+<video src="https://youtu.be/Zx09vcYq1oc"></video>
